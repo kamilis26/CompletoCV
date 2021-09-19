@@ -1,0 +1,226 @@
+body {
+  background-color: #F0D9FF;
+}
+
+h1 {
+  color: #7F7C82;
+  margin: 30px;
+}
+
+h3 {
+  color: #7F7C82;
+  font-size: 1rem;
+}
+
+a {
+  color: #BFA2DB;
+}
+
+.interesses {
+  align-content: center;
+}
+
+.interesse-text {
+  text-align: center;
+  margin-bottom: 50px;
+  color: #7F7C82;
+}
+.interesse-image {
+border-radius: 100%;
+margin-left: 200px;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.container {
+  background-color: white;
+  padding-top: 50px;
+}
+
+.main {
+  background-color: #BFA2DB;
+}
+
+.jumbotron {
+  background-color: grey;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+.footer-padding {
+	padding-bottom: 20%;
+}
+
+.footer {
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 180px;
+	background-color: #BFA2DB;
+}
+
+.footer p {
+  font-size: 1rem;
+	margin-top: 25px;
+  padding-top: 75px;
+  color: #fff;
+}
+
+.myself {
+  width: 50%;
+  border-width: medium;
+  border-color: #BFA2DB;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-radius: 100%;
+}
+
+.head {
+  width: 70%;
+}
+
+.imgAbout {
+position: relative;
+left: 80%;
+bottom: 215px;
+width: 270px;
+border-radius: 100%;
+background-color: #BFA2DB;
+}
+
+.bottom-container a{
+  padding: 0 10px 15% 10%;
+  margin-left: 15%;
+  color: #BFA2DB;
+}
+
+.bottom-container {
+  padding: 50px;
+
+}
+
+.menu{
+	background:#BFA2DB;
+	width:270px;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:5;
+	outline:none;
+  color: white;
+  height: 1000px;
+}
+
+
+	.avatar{
+		background:rgba(0,0,0,0.1);
+		padding:2em 0.5em;
+		text-align:center;
+  }
+
+		.myself2 {
+			box-shadow:0 0 0 8px rgba(255,255,255,0.2);
+      width: 50%;
+      border-width: medium;
+      border-color: #BFA2DB;
+      margin-bottom: 50px;
+      border-radius: 100%;
+		}
+
+		h2{
+			font-weight:normal;
+			margin-bottom:0;
+		}
+
+	ul{
+		list-style:none;
+		padding:0.5em 0;
+		margin:0;
+  }
+
+	ul	li{
+			padding:0.5em 1em 0.5em 3em;
+			font-size:0.95em;
+			font-weight:regular;
+			background-repeat:no-repeat;
+			background-position:left 15px center;
+			background-size:auto 20px;
+			transition:all 0.15s linear;
+			cursor:pointer;
+    }
+
+		ul li :hover{
+				background-color:rgba(0,0,0,0.1);
+        color: white;
+			}
+
+  .lista {
+    color: white;
+  }
+
+  .row {
+    margin-right: auto;
+  }
+
+  .nome {
+  font-size: 7rem;
+  color: #BFA2DB;
+  font-family: 'Staatliches', cursive;
+  margin-top: 2%;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.sobrenome {
+  font-size: 2.5rem;
+  color: #7F7C82;
+  font-family: 'Staatliches', cursive;
+  margin-bottom: 50px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.hrprincipal {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #BFA2DB;
+  margin-top: 50px;
+  border-width: 8px;
+  width: 800px;
+  margin-bottom: 3  0px;
+}
+
+.titulo {
+  color: #BFA2DB;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 50px;
+}
+
+.titulo2 {
+  color: #BFA2DB;
+  font-size: 1.5rem;
+  margin-top: 80px;
+}
+
+.curso {
+  text-align: center;
+}
+
+.listaWork {
+  list-style: circle;
+  line-height: 2;
+}
+
+.curso-image {
+  width: 50%;
+  margin: 20px;
+}
